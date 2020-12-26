@@ -10,8 +10,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <Counter />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload....
         </p>
+        <h2>Some random text</h2>
         <span>
           <span>Learn </span>
           <a
